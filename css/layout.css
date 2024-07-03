@@ -27,16 +27,52 @@
 
 
 /*************************************************** 
-    RESPONSIVE
+    RESPONSIVE LAYOUT
 ****************************************************/
 
 /********************* 
-    TABLET (>576px)
+    SMALL (sm) (>576px)
 **********************/
+@media screen and (min-width: 576px) {
+
+}
 
 
 
 /********************* 
-    DESKTOP (>992px)
+    MEDIUM (md) (>768px)
 **********************/
+@media screen and (min-width: 768px) {
+    
+}
+
+
+
+/********************* 
+    LARGE (lg) (>992px)
+**********************/
+@media screen and (min-width: 992px) {
+    
+}
+
+
+
+
+/********************* 
+    EXTRA LARGE (xl) (>1200px)
+**********************/
+@media screen and (min-width: 1200px) {
+    
+}
+
+
+
+
+/********************* 
+    EXTRA EXTRA LARGE (xxl) (>1400px)
+**********************/
+@media screen and (min-width: 1400px) {
+    
+}
+
 
